@@ -1,3 +1,2 @@
-
-Emptied readme.md to remove Video Demonstration folder
+Video demonstration of project
 
